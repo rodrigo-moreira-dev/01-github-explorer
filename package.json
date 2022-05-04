@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react": "^18.1.0"
+  },
+  "name": "01-github-explorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}

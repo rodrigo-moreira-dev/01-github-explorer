@@ -1,5 +1,5 @@
-export function App() {
-    throw new Error('Eita');
+import './styles/global.css';
 
-    return <h1>Hello World 2</h1>
+export function App() {
+    return <h1>Hello World 2</h1>;
 }
